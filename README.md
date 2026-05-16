@@ -38,19 +38,7 @@ Passionate about building modern and responsive web applications 💻
 
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=preetamyadav7576&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamyadav7576&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🚀 Featured Project
 
