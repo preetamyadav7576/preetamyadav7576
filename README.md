@@ -1,40 +1,76 @@
-<h1 align="center">Hi 👋 I'm Preetam Yadav</h1>
+<h1 align="center">Hi 👋, I'm Preetam Yadav</h1>
 
 <h3 align="center">🚀 Aspiring Full-Stack Developer | BCA Student</h3>
 
 <p align="center">
-Passionate about building modern websites and learning new technologies.
+Passionate about building modern and responsive web applications 💻
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 🌟 About Me
 
-✔ HTML  
-✔ CSS  
-✔ JavaScript  
-
-🌱 Currently Learning:
-- Python
-- Django
-- PostgreSQL
+- 🎓 BCA Student
+- 🌱 Currently learning **Python, Django & PostgreSQL**
+- 💻 Skilled in **HTML, CSS & JavaScript**
+- 🚀 Built a real-world project: **Codixa Sankalp**
+- 🎯 Looking for Internship Opportunities
 
 ---
 
-## 🚀 Featured Project
+# 💻 Tech Stack
 
-🔹 **Codixa Sankalp**  
-E-Learning Website developed for a real client.
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</p>
 
 ---
 
-## 🎯 Goal
+# 📊 GitHub Stats
 
-Looking for Web Development & Frontend Internship Opportunities to gain real-world experience and improve my skills.
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=preetamyadav7576&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamyadav7576&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Project
 
-🔗 LinkedIn: preetamyadav7576  
-🔗 GitHub: preetamyadav7576
+## 🔹 Codixa Sankalp
+📚 E-Learning Website developed for a real client using HTML, CSS & JavaScript.
+
+🌐 Website: https://codixasankalp.in
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/preetamyadav7576">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/preetamyadav7576">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
