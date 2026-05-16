@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Preetam Yadav</h1>
 
-<!--
-**preetamyadav7576/preetamyadav7576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Aspiring Full-Stack Developer | BCA Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern websites and learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+✔ HTML  
+✔ CSS  
+✔ JavaScript  
+
+🌱 Currently Learning:
+- Python
+- Django
+- PostgreSQL
+
+---
+
+## 🚀 Featured Project
+
+🔹 **Codixa Sankalp**  
+E-Learning Website developed for a real client.
+
+---
+
+## 🎯 Goal
+
+Looking for Web Development & Frontend Internship Opportunities to gain real-world experience and improve my skills.
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: preetamyadav7576  
+🔗 GitHub: preetamyadav7576
